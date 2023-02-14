@@ -1,3 +1,5 @@
+Instalar Android Studio e instalar el apk en un device virtual o físico.
+
 Instalar Appium Server (Windows):
 
 https://github.com/appium/appium-desktop/releases/tag/v1.22.3-4
